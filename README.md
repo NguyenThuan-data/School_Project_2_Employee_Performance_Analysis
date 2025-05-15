@@ -1,5 +1,7 @@
 # 📈 Employee Performance Analysis using Statistical and Regression Techniques
 
+## Project Overview
+
 This project explores and analyzes a company's employee dataset using data analysis and statistical methods. The aim is to uncover insights into employee 
 performance and determine the key factors that influence performance ratings.This was a **group project** for the COMP517 – Data Analysis course at AUT.
 
@@ -33,7 +35,7 @@ This project was completed as part of the **COMP517 – Data Analysis** course a
 
 ---
 
-## 🧪 Project Overview
+## 🧪 Report Overview
 
 ### Part 1: Exploring Data and Hypothesis Testing
 - Cleaned dataset by checking for duplicates, missing values, and outliers
